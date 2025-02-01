@@ -1,4 +1,4 @@
-#upgrade #myScript #screpper #apikeys
+#upgrade #myScript #scrapper #apikeys
 # Code
 ```
 import requests 
