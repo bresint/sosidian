@@ -1,4 +1,4 @@
-**Forwarded from [OSINT mindset](https://t.me/osint_mindset/664)**
+#to-do #study/lecture 
 
 🔍 **Записи докладов OSINT mindset на** [**KazHackStan 2024**](https://t.me/osint_mindset/632)**!**
 

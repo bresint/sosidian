@@ -1,4 +1,4 @@
-**Forwarded from [OSINT mindset](https://t.me/osint_mindset/662)**
+#to-do 
 
 ![[photo_1101998100_6 - 20250202024623637.jpg]]
 
